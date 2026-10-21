@@ -939,8 +939,9 @@ https://github.com/falliloudiouf20-ai
 
 **LinkedIn**
 
-> *(Add your LinkedIn profile URL here.)*
-
+```
+https://www.linkedin.com/in/falilou-diouf-979807332
+```
 ---
 
 # 🤝 Acknowledgments

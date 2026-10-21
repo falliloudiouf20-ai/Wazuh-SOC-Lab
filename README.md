@@ -71,7 +71,7 @@ The laboratory was designed to validate the following capabilities:
 ┌─────────────────────┐                 ┌─────────────────────────┐
 │     Kali Linux      │                 │     Ubuntu 26.04 LTS    │
 │─────────────────────│                 │─────────────────────────│
-│ Wazuh Manager       │◄──────────────►│ Wazuh Agent             │
+│ Wazuh Manager       │◄──────────────► │ Wazuh Agent             │
 │ Wazuh Dashboard     │                 │ OpenSSH Server          │
 │ Filebeat            │                 │ Syscheck (FIM)          │
 │ Wazuh Indexer       │                 │ Authentication Logs     │
